@@ -1,0 +1,4 @@
+.gitignore.dockerignore
+.bzebug_history
+/log/*
+/tmp/*

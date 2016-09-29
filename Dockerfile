@@ -14,7 +14,7 @@ FROM ruby:2.3-slim
 # The Docker hub is the standard place for you to find official
 # Docker images. Think of it like GitHub but for Docker images.
 
-MAINTAINER Nick Janetakis <nick.janetakis@gmail.com>
+MAINTAINER Sebastjan Lajkovic <sebastjanlajkovic@gmail.com>
 # It is good practice to set a maintainer for all of your Docker
 # images. It's not necessary but it's a good habit.
 
